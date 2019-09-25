@@ -44,10 +44,10 @@ https://sunlightfoundation.com/api/
 
 #### Demographics
 Using API’s we can visualize the Demographics of Congress
-- 119th Congress by Gender
+- 116th Congress by Gender
 ![Congress by Gender](images/Congress_by_Gender.png "Congress by Gender")
 
-- 119th Congress by Race
+- 116th Congress by Race
 ![Congress by Race](images/Congress_by_Race.png "Congress by Race")
 
 #### Future Analysis
