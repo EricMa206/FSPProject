@@ -9,13 +9,13 @@ Why are we doing this? There is a story about Newt Gingrich when he was first el
 
 Newt is largely attributed for creating the partisan polarized envirnoment that persists until now.
 
-![Newt Gingrich](images/Newt_Gingrich_empty1-1.jpg "Newt Gingrich")
+![Newt Gingrich](Images/Newt_Gingrich_empty1-1.jpg "Newt Gingrich")
 
 Newt was exceptionally media savvy for his era. Now we have more than C-Span. We have a news network for every kind of viewer, twitter, and facebook.
 And while theoretically all congressional action is freely available and part of the record, the truth is that there is a public facing congress and the real congress. Is congress working for you? Is what they say to the public the same as what they’re doing in their chambers?
 
 ### Tools for staying on top of Congress
-![Scrapy logo](images/Scrapy_logo.png "Scrapy logo" | width=100)
+![Scrapy logo](Images/Scrapy_logo.png "Scrapy logo" | width=100)
 
 #### Scrapy is used in extracting the data from websites.
 - Government Datasets
@@ -23,8 +23,6 @@ And while theoretically all congressional action is freely available and part of
 - Scrapy handles both navigation and extraction, complete solution
 - BeautifulSoup only handles scraping
 - Selenium is sometimes slower and more memory-intensive
-
-![Tika](images/transfer-data-icon-29.jpg "Tika" | width=100)
 
 #### APACHE Tika detects and extracts text and metatext from files
 - Text extraction
@@ -45,10 +43,10 @@ https://sunlightfoundation.com/api/
 #### Demographics
 Using API’s we can visualize the Demographics of Congress
 - 116th Congress by Gender
-![Congress by Gender](images/Congress_by_Gender.png "Congress by Gender")
+![Congress by Gender](Images/Congress_by_Gender.png "Congress by Gender")
 
 - 116th Congress by Race
-![Congress by Race](images/Congress_by_Race.png "Congress by Race")
+![Congress by Race](Images/Congress_by_Race.png "Congress by Race")
 
 #### Future Analysis
 - What bills will pass?
