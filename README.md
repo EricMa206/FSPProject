@@ -1,5 +1,5 @@
 # Exploring Congressional Data
-![Exploring Congressional Data](images/Title_image.png "Exploring Congressional Data")
+![Exploring Congressional Data](Images/Title_image.png "Exploring Congressional Data")
 
 ### Making congress more accountable with data.
 
